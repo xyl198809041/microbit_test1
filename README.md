@@ -1,6 +1,9 @@
 
-> 在 [https://xyl198809041.github.io/microbit_test1/](https://xyl198809041.github.io/microbit_test1/) 打开此页面
-![](https://www.bing.com/th?id=OLC.8Zgj2oDcEUNlVA480x360&w=172&h=180&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2)
+在 [https://xyl198809041.github.io/microbit_test1/](https://xyl198809041.github.io/microbit_test1/) 打开此页面
+![image](https://github.com/xyl198809041/microbit_test1/assets/16719471/c47ebb94-5740-44a1-91c9-2d039039af41)
+|问题|答案|引用|
+|----|----|----|
+|1|2|3|
 ## 用作扩展
 
 此仓库可以作为 **插件** 添加到 MakeCode 中。
